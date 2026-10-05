@@ -1,6 +1,6 @@
 # agent.md — novus-aeyre
 
-Procedural directives for an agent working in this repo. See `CLAUDE.md` for
+Procedural directives for an agent working in this repo. See `AGENTS.md` for
 stack position, `README.md` for the full component/status breakdown.
 
 ## What to do here
@@ -34,7 +34,7 @@ audited and fully synthesized into `novaexopia`'s `README_NOVAEXOPIA.md` and
 `01_SOVEREIGN_NODE_AND_APK_TOPOLOGY.md`, per
 `AUDIT_LEX_NOVI_AESOP_XI.md` (Drive, `__LEX-NOVI-Review-OUTPUT`). The raw
 subfolder itself is not shared with this Claude Code session — only the audit
-summary is. This repo's own `README.md`/`CLAUDE.md` already reflect a more
+summary is. This repo's own `README.md`/`AGENTS.md` already reflect a more
 current, more detailed state than that audit summary (the two documented
 gotchas aren't in the audit doc at all), so treat this repo's own docs as the
 better source, not the Drive audit.
