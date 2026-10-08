@@ -1,5 +1,10 @@
 # RESUME.md — novus-aeyre
 
+## Next session (from 2026-10-08, session 34c3e229)
+- Branch `pending-fold`: `unresolved.md` folded into PENDING.md; ships at wrap-up.
+- 4 old local branches whose PRs merged get deleted (workstream 4).
+Full plan, run as parallel subagent workstreams: vault `NovAExorpus/RESUME.md` START HERE.
+
 **Last updated:** 2026-09-07
 **Branch:** `restructure/drive-file-tree`
 
