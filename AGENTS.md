@@ -65,3 +65,9 @@ and the observation layer.
 
 **Bootstrap this repo**: `bash tools/bootstrap.sh` — thin wrapper that
 calls aesop-xi's canonical bootstrap first.
+
+## What loads in this repo, for every agent (operator, 2026-11-09)
+This file is the authority; `CLAUDE.md` only points here.
+- **Claude Code:** `.claude/settings.json` enables the rules and hooks plugin `aesops-enforcements`, the Frankenstein plugins (jev-core, memory, rea-forge, burn, claw-mcp, ui-cockpit; marketplace `novaexopia` = NovAExopia on GitHub) and greedy-crane (marketplace `nvaex-vault` = NovAExorpus). They bring their hooks and MCP servers.
+- **MCP for any agent:** NovAExopia's `.mcp.json`; **AGY:** NovAExopia's `.agents/plugins.json`.
+- Marketplace sources point at branch `rules-fix-2026-11-09` until it reaches main; then they point at `main`.
